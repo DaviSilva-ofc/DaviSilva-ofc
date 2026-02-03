@@ -51,15 +51,12 @@
     </picture>
   </a>
 
-  <!-- Gmail -->
-  <a href="https://mail.google.com/mail/?view=cm&to=davihs4005m@gmail.com" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" alt="Gmail" title="Gmail" />
-    </picture>
-  </a>
-</p>
+<!-- Gmail -->
+<a href="https://mail.google.com/mail/?view=cm&to=davihs4005m@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="32" height="32" alt="Gmail" title="Gmail">
+</a>
+
+
 
 
 ###
